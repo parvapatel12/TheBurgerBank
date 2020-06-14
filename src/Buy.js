@@ -72,7 +72,7 @@ export default class Buy extends React.Component {
 
         <div
           className="BackToHome"
-          onClick={(event) => (window.location.href = "/")}
+          onClick={(event) => (window.location.href = "/TheBurgerBank")}
         >
           Home
         </div>
