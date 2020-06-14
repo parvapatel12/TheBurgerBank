@@ -59,7 +59,7 @@ export default class Buy extends React.Component {
       localStorage.setItem("salad", JSON.stringify(SALAD));
       localStorage.setItem("cheese", JSON.stringify(CHEESE));
       localStorage.setItem("cutlets", JSON.stringify(CUTLETS));
-      window.location.href = "/";
+      window.location.href = "/TheBurgerBank";
     } else {
       alert("Please enter your name to place the order.");
     }
