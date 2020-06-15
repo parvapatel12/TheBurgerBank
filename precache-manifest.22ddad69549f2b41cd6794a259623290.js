@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0cf2ece3f446964d7507ae3776b44172",
+    "revision": "8d1f987f359fce6b3138320a2ab32bdf",
     "url": "/TheBurgerBank/index.html"
   },
   {
-    "revision": "e78d73e817d7e0a5e13f",
+    "revision": "2da51290d38dbed5a728",
     "url": "/TheBurgerBank/static/css/main.a69f9e01.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TheBurgerBank/static/js/2.8f93a538.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e78d73e817d7e0a5e13f",
-    "url": "/TheBurgerBank/static/js/main.a06c9468.chunk.js"
+    "revision": "2da51290d38dbed5a728",
+    "url": "/TheBurgerBank/static/js/main.9268fd12.chunk.js"
   },
   {
     "revision": "e8427b00ff20e2dc59e8",

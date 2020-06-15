@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/TheBurgerBank/static/css/main.a69f9e01.chunk.css",
-    "main.js": "/TheBurgerBank/static/js/main.a06c9468.chunk.js",
-    "main.js.map": "/TheBurgerBank/static/js/main.a06c9468.chunk.js.map",
+    "main.js": "/TheBurgerBank/static/js/main.9268fd12.chunk.js",
+    "main.js.map": "/TheBurgerBank/static/js/main.9268fd12.chunk.js.map",
     "runtime-main.js": "/TheBurgerBank/static/js/runtime-main.537573a4.js",
     "runtime-main.js.map": "/TheBurgerBank/static/js/runtime-main.537573a4.js.map",
     "static/js/2.8f93a538.chunk.js": "/TheBurgerBank/static/js/2.8f93a538.chunk.js",
     "static/js/2.8f93a538.chunk.js.map": "/TheBurgerBank/static/js/2.8f93a538.chunk.js.map",
     "index.html": "/TheBurgerBank/index.html",
-    "precache-manifest.378d4b256eed1a2036dd004076c7a91b.js": "/TheBurgerBank/precache-manifest.378d4b256eed1a2036dd004076c7a91b.js",
+    "precache-manifest.22ddad69549f2b41cd6794a259623290.js": "/TheBurgerBank/precache-manifest.22ddad69549f2b41cd6794a259623290.js",
     "service-worker.js": "/TheBurgerBank/service-worker.js",
     "static/css/main.a69f9e01.chunk.css.map": "/TheBurgerBank/static/css/main.a69f9e01.chunk.css.map",
     "static/js/2.8f93a538.chunk.js.LICENSE.txt": "/TheBurgerBank/static/js/2.8f93a538.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.537573a4.js",
     "static/js/2.8f93a538.chunk.js",
     "static/css/main.a69f9e01.chunk.css",
-    "static/js/main.a06c9468.chunk.js"
+    "static/js/main.9268fd12.chunk.js"
   ]
 }
