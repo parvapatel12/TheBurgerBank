@@ -147,7 +147,7 @@ export default class PastOrders extends React.Component {
         <div
           className="BackToHome"
           style={{ textAlign: "center" }}
-          onClick={(event) => (window.location.href = "/#/")}
+          onClick={(event) => (window.location.href = "/TheBurgerBank/#/")}
         >
           Home
         </div>

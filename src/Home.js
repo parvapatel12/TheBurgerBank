@@ -34,13 +34,17 @@ export default class Home extends React.Component {
             <div className="burger_background1"></div>
             <div
               className="UIbutton1 buy"
-              onClick={(event) => (window.location.href = "/#/buy/")}
+              onClick={(event) =>
+                (window.location.href = "/TheBurgerBank/#/buy/")
+              }
             >
               <span>Grab a Burger</span>
             </div>
             <div
               className="UIbutton1 past_orders"
-              onClick={(event) => (window.location.href = "/#/pastOrders/")}
+              onClick={(event) =>
+                (window.location.href = "/TheBurgerBank/#/pastOrders/")
+              }
             >
               <span>Past Orders</span>
             </div>
@@ -50,13 +54,17 @@ export default class Home extends React.Component {
             <div className="burger_background2"></div>
             <div
               className="UIbutton2 buy2"
-              onClick={(event) => (window.location.href = "/#/buy/")}
+              onClick={(event) =>
+                (window.location.href = "/TheBurgerBank/#/buy/")
+              }
             >
               <span>Grab a Burger</span>
             </div>
             <div
               className="UIbutton2 past_orders2"
-              onClick={(event) => (window.location.href = "/#/pastOrders/")}
+              onClick={(event) =>
+                (window.location.href = "/TheBurgerBank/#/pastOrders/")
+              }
             >
               <span>Past Orders</span>
             </div>
