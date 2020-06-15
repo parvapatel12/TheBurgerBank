@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d1f987f359fce6b3138320a2ab32bdf",
+    "revision": "8780f20b95725e53029934f86e0ffcf6",
     "url": "/TheBurgerBank/index.html"
   },
   {
-    "revision": "2da51290d38dbed5a728",
+    "revision": "bb3ff10aefa70455f2e4",
     "url": "/TheBurgerBank/static/css/main.a69f9e01.chunk.css"
   },
   {
-    "revision": "bd8a82df6f7c58c2061c",
-    "url": "/TheBurgerBank/static/js/2.8f93a538.chunk.js"
+    "revision": "1ed02317b5d4b5369606",
+    "url": "/TheBurgerBank/static/js/2.ec37ec1e.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/TheBurgerBank/static/js/2.8f93a538.chunk.js.LICENSE.txt"
+    "url": "/TheBurgerBank/static/js/2.ec37ec1e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2da51290d38dbed5a728",
-    "url": "/TheBurgerBank/static/js/main.9268fd12.chunk.js"
+    "revision": "bb3ff10aefa70455f2e4",
+    "url": "/TheBurgerBank/static/js/main.07c4f509.chunk.js"
   },
   {
     "revision": "e8427b00ff20e2dc59e8",
