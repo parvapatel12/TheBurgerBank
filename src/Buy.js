@@ -59,7 +59,7 @@ export default class Buy extends React.Component {
       localStorage.setItem("salad", JSON.stringify(SALAD));
       localStorage.setItem("cheese", JSON.stringify(CHEESE));
       localStorage.setItem("cutlets", JSON.stringify(CUTLETS));
-      window.location.href = "/TheBurgerBank";
+      window.location.href = "/#/";
     } else {
       alert("Please enter your name to place the order.");
     }
@@ -72,7 +72,7 @@ export default class Buy extends React.Component {
 
         <div
           className="BackToHome"
-          onClick={(event) => (window.location.href = "/TheBurgerBank")}
+          onClick={(event) => (window.location.href = "/#/")}
         >
           Home
         </div>

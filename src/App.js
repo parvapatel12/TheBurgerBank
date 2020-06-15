@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 import "./App.css";
 import Home from "./Home";
 import Buy from "./Buy";
@@ -10,15 +10,15 @@ class App extends React.Component {
     return (
       <Router>
         <Switch>
-          <Route exact path="/TheBurgerBank/">
+          <Route exact path="/">
             <Home />
           </Route>
 
-          <Route path="/TheBurgerBank/buy">
+          <Route path="/buy/">
             <Buy />
           </Route>
 
-          <Route path="/TheBurgerBank/pastOrders">
+          <Route path="/pastOrders/">
             <PastOrders />
           </Route>
         </Switch>
