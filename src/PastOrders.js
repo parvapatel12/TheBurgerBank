@@ -8,13 +8,20 @@ export default class PastOrders extends React.Component {
       name: null,
       nameChange: "",
       SearchName: 0,
-      NameDiv: "HiddenDiv",
     };
   }
 
+  ScrollToBottom = () => {
+    console.log("Hello");
+    window.scrollTo({
+      top: document.body.scrollHeight,
+      left: 0,
+      behavior: "smooth",
+    });
+  };
+
   ToggleSearch = () => {
     if (this.state.SearchName === 0) {
-      console.log("Hello");
       this.setState({
         SearchName: 1,
       });
@@ -178,7 +185,13 @@ export default class PastOrders extends React.Component {
           </table>
         </div>
 
-        <div className="Search" onClick={this.ToggleSearch}>
+        <div
+          className="Search"
+          onClick={() => {
+            this.ToggleSearch();
+            this.ScrollToBottom();
+          }}
+        >
           Search by person name
         </div>
 
