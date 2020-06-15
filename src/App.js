@@ -10,15 +10,15 @@ class App extends React.Component {
     return (
       <Router>
         <Switch>
-          <Route exact path="/">
+          <Route exact path="/TheBurgerBank/">
             <Home />
           </Route>
 
-          <Route path="/buy">
+          <Route path="/TheBurgerBank/buy">
             <Buy />
           </Route>
 
-          <Route path="/pastOrders">
+          <Route path="/TheBurgerBank/pastOrders">
             <PastOrders />
           </Route>
         </Switch>
