@@ -212,7 +212,7 @@ export default class Home extends React.Component {
     return (
       <div className="App">
         <div className="ChangeThemeButton" onClick={this.ChangeTheme}>
-          Change the theme
+          Change theme
         </div>
         <img className="welcome" src={welcome} alt="The Burger Bank" />
         {this.state.theme === "cartoon" ? (
